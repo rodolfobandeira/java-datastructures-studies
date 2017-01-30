@@ -1,7 +1,5 @@
 package ds.circularlinkedlist;
 
-import ds.singlylinkedlist.SinglyLinkedList;
-
 public class App {
 
     public static void main(String[] args) {
